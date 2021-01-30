@@ -1,0 +1,18 @@
+body{
+    margin-top: 200px;
+}
+.btn {
+    font-weight: 400;
+    height: 70px;
+}
+.badge-1{
+padding: 50px;
+}
+.badge-1 .badge{
+padding: 30px;
+font-size: 20px;
+}
+.badge-1 .badge:hover{
+    background-color: rgb(8, 247, 255) !important;
+    color: rgb(0, 0, 0);
+}
